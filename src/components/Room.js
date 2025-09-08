@@ -13,11 +13,11 @@ export default function Room({ projects, onSelect }) {
     group.current.rotation.y += 0.02 * dt;
   });
 
-  // Geometry and material for InstancedMesh
-  const geometry = new THREE.BoxGeometry(1, 1, 0.5); // example box for each project
+  // Geometry & material for instanced meshes
+  const geometry = new THREE.BoxGeometry(1, 1, 0.5); // simple box placeholder
   const material = new THREE.MeshStandardMaterial({ color: '#8b5cf6' });
 
-  // Set positions of all instances
+  // Set instance positions
   useEffect(() => {
     if (!instancedMesh.current) return;
     projects.forEach((p, i) => {
