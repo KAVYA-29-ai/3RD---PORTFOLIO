@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Full-Stack Bootcamp",
+    "issuer": "Code Academy",
+    "year": 2023,
+    "image": "cert1.svg"
+  },
+  {
+    "id": 2,
+    "title": "Advanced React",
+    "issuer": "Udemy",
+    "year": 2022,
+    "image": "cert2.svg"
+  },
+  {
+    "id": 3,
+    "title": "Three.js Essentials",
+    "issuer": "Coursera",
+    "year": 2024,
+    "image": "cert3.svg"
+  },
+  {
+    "id": 4,
+    "title": "Data Structures",
+    "issuer": "NPTEL",
+    "year": 2021,
+    "image": "cert4.svg"
+  },
+  {
+    "id": 5,
+    "title": "Design Systems",
+    "issuer": "Interaction Design Foundation",
+    "year": 2020,
+    "image": "cert5.svg"
+  },
+  {
+    "id": 6,
+    "title": "Cloud Foundations",
+    "issuer": "AWS",
+    "year": 2023,
+    "image": "cert6.svg"
+  },
+  {
+    "id": 7,
+    "title": "UX Research",
+    "issuer": "Google",
+    "year": 2022,
+    "image": "cert7.svg"
+  }
+]

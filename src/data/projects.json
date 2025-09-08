@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Stellar Travel UI",
+    "short": "A cosmic-themed travel booking UI.",
+    "long": "A complete travel booking UI with immersive 3D room previews and itinerary generator.",
+    "tech": [
+      "React",
+      "Three.js",
+      "Framer Motion"
+    ],
+    "image": "project1.svg",
+    "link": "https://example.com"
+  },
+  {
+    "id": 2,
+    "title": "AR Product Viewer",
+    "short": "Web AR viewer for products.",
+    "long": "A product viewer with AR-like interaction and configurator.",
+    "tech": [
+      "React",
+      "Three.js"
+    ],
+    "image": "project2.svg",
+    "link": "https://example.com"
+  },
+  {
+    "id": 3,
+    "title": "DataViz Dash",
+    "short": "Interactive dashboards with 3D charts.",
+    "long": "Visualization dashboards with 3D charts and real-time updates.",
+    "tech": [
+      "D3",
+      "React"
+    ],
+    "image": "project3.svg",
+    "link": "https://example.com"
+  },
+  {
+    "id": 4,
+    "title": "Game Landing",
+    "short": "Micro-site for indie game.",
+    "long": "Landing page with animated 3D hero and parallax.",
+    "tech": [
+      "React",
+      "Three.js"
+    ],
+    "image": "project4.svg",
+    "link": "https://example.com"
+  },
+  {
+    "id": 5,
+    "title": "Portfolio CMS",
+    "short": "Headless CMS for creators.",
+    "long": "A headless CMS with live preview and deploy hooks.",
+    "tech": [
+      "Node",
+      "React"
+    ],
+    "image": "project5.svg",
+    "link": "https://example.com"
+  }
+]

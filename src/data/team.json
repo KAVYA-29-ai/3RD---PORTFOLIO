@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Anuroop",
+    "role": "Designer",
+    "image": "member1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Krish",
+    "role": "Developer",
+    "image": "member2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Kavya",
+    "role": "PM",
+    "image": "member3.svg"
+  },
+  {
+    "id": 4,
+    "name": "Suryansh",
+    "role": "QA",
+    "image": "member4.svg"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "my-3d-portfolio-final",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@react-three/fiber": "^8.0.27",
+    "@react-three/drei": "^9.73.3",
+    "three": "^0.155.0",
+    "framer-motion": "^10.12.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}

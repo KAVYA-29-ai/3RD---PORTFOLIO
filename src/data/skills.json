@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "React & Frontend",
+    "level": 88
+  },
+  {
+    "id": 2,
+    "name": "Three.js / WebGL",
+    "level": 76
+  },
+  {
+    "id": 3,
+    "name": "Node & APIs",
+    "level": 70
+  }
+]
