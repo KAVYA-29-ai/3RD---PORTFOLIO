@@ -1,11 +1,23 @@
-# my-3d-portfolio-final
+# Kavya Rajput – 3D VR Portfolio
 
-Ready-to-deploy 3D portfolio React project.
+🚀 A cinematic VR-style portfolio built with **Next.js + React Three Fiber + TailwindCSS + Framer Motion**.
 
-## Run
-1. npm install
-2. npm start
+## Features
+- 3D Galaxy Hub navigation
+- Interactive planets for Projects, Certificates, Team
+- Holographic UI overlays
+- Contact API via Vercel Functions
 
-Replace SVGs in public/assets with your own images (same filenames) to personalise.
+## Setup
+```bash
+git clone <repo-url>
+cd kavya-3d-vr-portfolio
+npm install
+npm run dev
+```
 
-LinkedIn link included but profile content wasn't fetched (can't scrape). Paste your bio here and I'll regenerate with your actual text.
+## Deploy to Vercel
+```bash
+npm run build
+vercel deploy
+```

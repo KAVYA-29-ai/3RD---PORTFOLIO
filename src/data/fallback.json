@@ -1,0 +1,39 @@
+{
+  "profile": {
+    "name": "Kavya Rajput",
+    "tagline": "B.Tech Student | Tech Enthusiast | Problem Solver",
+    "bio": "Passionate about technology and continuous learning. Building skills in Modern Technologies.",
+    "status": "B.Tech Student - GLA 2nd Year",
+    "location": "India - Building Global Skills",
+    "contact": "kavya.gla_cs.aiml24@gla.ac.in",
+    "linkedin": "https://www.linkedin.com/in/kavya-rajput-431055370/",
+    "portfolio": "https://kavya-protfolio.netlify.app/",
+    "availability": "Available for opportunities",
+    "stats": ["9+ Certifications", "3+ Projects", "100% Passion"],
+    "skills": [
+      "Cloud Computing (Azure Fundamentals)",
+      "Full Stack Development",
+      "Data & AI (Python, SQL, ML Models)",
+      "Problem Solving & Continuous Learning"
+    ]
+  },
+  "certifications": [
+    {"title": "Problem Solving (Advanced)", "issuer": "HackerRank", "year": 2024},
+    {"title": "Microsoft Azure Fundamentals", "issuer": "Microsoft", "year": 2024},
+    {"title": "Full Stack Web Development", "issuer": "Infosys Springboard", "year": 2024},
+    {"title": "Python & SQL Mastery", "issuer": "HackerRank", "year": 2024},
+    {"title": "Intermediate Problem Solving", "issuer": "HackerRank", "year": 2024},
+    {"title": "Web Technologies Suite", "issuer": "Multiple Platforms", "year": 2024}
+  ],
+  "projects": [
+    {"title": "AI-Powered Marketing Portfolio", "tags": ["LLM", "Dynamic Content"], "status": "Live"},
+    {"title": "Social Media Sentiment Analyzer", "tags": ["Python", "Gemini AI"], "status": "Live"},
+    {"title": "Interactive Portfolio Experience", "tags": ["HTML5", "CSS3", "JS"], "status": "Live"}
+  ],
+  "team": [
+    {"name": "Krish Choudhary", "role": "Team Leader & AI Model Developer"},
+    {"name": "Kavya Rajput", "role": "Full Stack Developer"},
+    {"name": "Krishna Mishra", "role": "UI/UX Designer"},
+    {"name": "Shivansh Tripathi", "role": "Strategic Advisor"}
+  ]
+}
